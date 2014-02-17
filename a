@@ -1,1 +1,4 @@
 fasasf
+if($b){
+	abc
+}
